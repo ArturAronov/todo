@@ -1,7 +1,7 @@
 # React Todo App
 
 ## Live Site
-https://todo-app-arturaronov.vercel.app/
+https://todo-arturaronov.vercel.app/
 
 ## Table of Content
 1. [Stack](#stack)
