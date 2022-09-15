@@ -1,0 +1,23 @@
+@media (prefers-color-scheme: dark){
+  :root{
+    --background-color: rgb(24,25,24);
+    --text-color: rgb(254,255,254);
+    --list-color-light: rgb(79, 79, 76);
+    --list-color-dark: rgb(55, 55, 53);
+    --box-shadow: 0 3px 10px rgb(254 255 254 / 0.2);
+    --input-border-light: 1px solid rgb(135, 136, 135);
+    --input-border-dark: 1px solid rgb(79, 79, 76);
+  }
+}
+
+@media (prefers-color-scheme: light){
+  :root{
+    --background-color: rgb(252,255,253);
+    --text-color: rgb(0,0,0);
+    --list-color-light: rgb(237, 237, 231);
+    --list-color-dark: rgb(209, 209, 201);
+    --box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+    --input-border-light: 1px solid rgb(79, 79, 76);
+    --input-border-dark: 1px solid rgb(209, 209, 201);
+  }
+}
