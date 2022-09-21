@@ -8,10 +8,10 @@ https://todo-arturaronov.vercel.app/
 2. [Snapshots](#snapshots)
 3. [Useful Links](#useful-links)
 4. [Features](#features)
-5. [Functions Explanations](#functions-explanations)
-	5.1 [Character counting function](#character-counting-function)
-	5.2 [New todo item addition function](#new-todo-item-addition-function)
-	5.3 [Todo list creator function](#todo-list-creator-function)
+5. [Functions Explanations](#functions-explanations) <br/>
+5.1 [Character counting function](#character-counting-function) <br/>
+5.2 [New todo item addition function](#new-todo-item-addition-function) <br/>
+5.3 [Todo list creator function](#todo-list-creator-function) <br/>
 
 ### Stack
 - React
